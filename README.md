@@ -65,8 +65,6 @@ assets/
 
 ---
 
----
-
 ## 📌 Future Enhancements
 
 - Add support for infinite scrolling.
