@@ -65,11 +65,6 @@ assets/
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add screenshots here if available -->
-<img src="assets/images/sample_screenshot.jpg" width="250" alt="App Screenshot">
-
 ---
 
 ## 📌 Future Enhancements
